@@ -14,7 +14,8 @@ API Programming #Security_Projects on GitHub: |
 3. <a href="https://github.com/KhodingNow/FigmaToHTML.git "<a/> - This is a FrontEnd Dev project, converting FIGMA to HTML, using CSS, a little JS too.
 4. <a href=" https://github.com/KhodingNow/Malware_Analysis.git "<a/> - This is a Malware Analysis  code written in Python to protect servers and increase security awareness for Devs, SystAdmins.
 
-Problem Solving, Mathematical Mindsets for productivity gains in the workplace - a talk to Managers
+https://giphy.com/gifs/new-youtube-logo-13Nc3xlO1kGg3S
+Problem Solving at WORK - Mathematical_THINKING Mindset for productivity gains in the workplace - a talk to Managers and leaders.
 <a href= " https://youtu.be/DAw0fP27wH8?si=ZIRm43bnIHLAGPUF" <a/>
 
 ## EndPoint Vulnerability discovery and Analysis.
