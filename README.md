@@ -14,6 +14,15 @@ A few sample Programming Projects on GitHub: |
 3. <a href="https://github.com/KhodingNow/FigmaToHTML.git "<a/> - This is a FrontEnd Dev project, converting FIGMA to HTML, using CSS, a little JS too.https://github.com/KhodingNow/Malware_Analysis.git
 4. <a href=" https://github.com/KhodingNow/Malware_Analysis.git "<a/> - This is a Malware Analysis  code written in Python to protect servers and increase security awareness for Devs, SystAdmins.
 
+## EndPoint Vulnerability discovery and Analysis.
+
+
+
+In April 2024, I discovered an API vulnerability on a Cloud Based API for a Retail Client's Job website - I wrote a report, informed them and they email to acknowledge it.
+
+<img src=" "C:\Users\Thembaletu\OneDrive\Pictures\Screenshots\Screenshot 2024-07-04 102831.png"" >
+
+
 🌍  I'm based in Johannesburg* ✉️  
 
 You can contact me at [khodingtata@gmail.com](mailto:khodingtata@gmail.com)* 🧠  I Execute DoS attacks, fingerprinting Rest and GraphQL vulnerabilities on GraphQL implementing servers, mitigate these attacks. Show HOW you can avoid them in the first place* 
