@@ -11,7 +11,7 @@ I ethically conduct Software development experiments as well as Hack,Pentest, Re
 A few sample Programming Projects on GitHub: |
 1. <a href= " https://github.com/KhodingNow/pythonProject8.git "</a> - this is a Data Structure programming project using Python.
 2. <a href= " https://github.com/KhodingNow/FrontEndDev.git "<a/> - A frontEnd Dev site build with HTML and CSS mainly.
-3. <a href="https://github.com/KhodingNow/FigmaToHTML.git "<a/> - This is a FrontEnd Dev project, converting FIGMA to HTML, using CSS, a little JS too.https://github.com/KhodingNow/Malware_Analysis.git
+3. <a href="https://github.com/KhodingNow/FigmaToHTML.git "<a/> - This is a FrontEnd Dev project, converting FIGMA to HTML, using CSS, a little JS too.
 4. <a href=" https://github.com/KhodingNow/Malware_Analysis.git "<a/> - This is a Malware Analysis  code written in Python to protect servers and increase security awareness for Devs, SystAdmins.
 
 ## EndPoint Vulnerability discovery and Analysis.
