@@ -20,7 +20,7 @@ A few sample Programming Projects on GitHub: |
 
 In April 2024, I discovered an API vulnerability on a Cloud Based API for a Retail Client's Job website - I wrote a report, informed them and they email to acknowledge it.
 
-<img src=" "C:\Users\Thembaletu\OneDrive\Pictures\Screenshots\Screenshot 2024-07-04 102831.png"" >
+<img src=" C:\Users\Thembaletu\OneDrive\Pictures\Screenshots\Screenshot 2024-07-04 102831.png" </>
 
 
 🌍  I'm based in Johannesburg* ✉️  
