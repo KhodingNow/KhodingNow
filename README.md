@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Ethical Hacker on GraphQL API Security.I have been programming in Python since 2020, after working and running my own Real Estate business for a combined 20 years. I ethically Hack,Pentest, Red / Blue Team APi security especially GraphQL APIs for the last number of years on my my Home Kali Linux lab environment. I am a heavy Linux user, in Programming, Security, Docker, Kubernetes, Git version control, Git Action automation, etc.* 🌍  I'm based in Johannesburg* ✉️  You can contact me at [khodingtata@gmail.com](mailto:khodingtata@gmail.com)* 🧠  I'm learning Executing DoS attacks , fingerprinting Rest and GraphQL vulnerabilities on GraphQL implementing servers and mitigating these attacks.* 🤝  I'm open to collaborating on API and writing secure code projects
 
-### Skills
+Tools and Skills
 
 
 <p align="left">
