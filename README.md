@@ -1,6 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Thembaletu Mbangcolo.
 
-Ethical Hacker on GraphQL API Security.I have been programming in Python since 2020, after working and running my own Real Estate business for a combined 20 years. I ethically Hack,Pentest, Red / Blue Team APi security especially GraphQL APIs for the last number of years on my my Home Kali Linux lab environment. I am a heavy Linux user, in Programming, Security, Docker, Kubernetes, Git version control, Git Action automation, etc.* 🌍  I'm based in Johannesburg* ✉️  You can contact me at [khodingtata@gmail.com](mailto:khodingtata@gmail.com)* 🧠  I'm learning Executing DoS attacks , fingerprinting Rest and GraphQL vulnerabilities on GraphQL implementing servers and mitigating these attacks.* 🤝  I'm open to collaborating on API and writing secure code projects
+I am an Ethical Hacker on GraphQL and Rest APIs Security.
+
+I have been programming in Python since 2020. I have a combined 20+ years experience across Corporate_SA including 8 years of running my own Real Estate Franchise in Midrand and Waterfall City, north of JHB.In my spare time, I Coach Mathematical Mindsets to students, laced with using Programming for problem solving. I post a lot of Programming ideas / concepts on my Linkedin <a href= "https://www.linkedin.com/in/thembaletu-mbangcolo-b993a325a/ <a/>
+
+I ethically Hack,Pentest, Red / Blue Team APi security especially GraphQL APIs for the last number of years on my my Home Kali Linux lab environment. I am a heavy Linux user, in Programming, Security, Docker, Kubernetes, Git version control, Git Action automation, etc.* 🌍  I'm based in Johannesburg* ✉️  You can contact me at [khodingtata@gmail.com](mailto:khodingtata@gmail.com)* 🧠  I'm learning Executing DoS attacks , fingerprinting Rest and GraphQL vulnerabilities on GraphQL implementing servers and mitigating these attacks.* 🤝  I'm open to collaborating on API and writing secure code projects
 
 Tools and Skills
 
