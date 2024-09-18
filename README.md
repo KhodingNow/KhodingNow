@@ -10,7 +10,7 @@ I ethically conduct Software development experiments as well as Hack,Pentest, Re
 
 A few sample Programming Projects on GitHub: |
 1. <a href= " https://github.com/KhodingNow/pythonProject8.git "</a> - this is a Data Structure programming project using Python.
-2. <a href = "git@github.com/KhodingNow/pythonProject7.git  " <a/> - this is an automated program for an API firewall, creating alerts for a SystAdmin, written in Python.
+2. <a href = "git@github.com:KhodingNow/pythonProject7.git  " <a/> - this is an automated program for an API firewall, creating alerts for a SystAdmin, written in Python.
 3. <a href= "git@github.com:KhodingNow/SQLALChemy.git "<a/> - this is an API security RATE limiting code to prevent an attacker sending malicious code to the client server as an attack method.
 
 🌍  I'm based in Johannesburg* ✉️  
