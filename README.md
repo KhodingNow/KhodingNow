@@ -8,7 +8,7 @@ On Linkedin, I post a lot of Programming ideas / concepts <a href= "https://www.
 
 I ethically conduct Software development experiments as well as Hack,Pentest, Red / Blue Team APi security especially GraphQL APIs for the last number of years on my my Home Kali Linux lab environment. A heavy Linux user, in Programming, Security, Docker, Kubernetes, Git version control, Git Action automation, etc.
 
-A few sample Programming #Security_Projects on GitHub: |
+API Programming #Security_Projects on GitHub: |
 1. <a href= " https://github.com/KhodingNow/pythonProject8.git "</a> - this is a Data Structure programming project using Python.
 2. <a href= " https://github.com/KhodingNow/FrontEndDev.git "<a/> - A frontEnd Dev site build with HTML and CSS mainly.
 3. <a href="https://github.com/KhodingNow/FigmaToHTML.git "<a/> - This is a FrontEnd Dev project, converting FIGMA to HTML, using CSS, a little JS too.
