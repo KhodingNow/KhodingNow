@@ -16,8 +16,10 @@ API Programming #Security_Projects on GitHub: |
 
 
 Problem Solving at WORK - Mathematical_THINKING Mindset for productivity gains in the workplace - a talk to Managers and leaders.
- <a href= " https://youtu.be/DAw0fP27wH8?si=ZIRm43bnIHLAGPUF" <a/> 
- <a href="https://www.linkedin.com/posts/thembaletu-mbangcolo-b993a325a_how-to-help-students-learn-mathematics-better-activity-7108687316902129664-Axej?utm_source=share&utm_medium=member_desktop  " <a/> - This is an interview I did on Radio 702 about STEM, Growth Mindsets -Mathematical mindests learning , teaching. 
+
+ * <a href= " https://youtu.be/DAw0fP27wH8?si=ZIRm43bnIHLAGPUF" <a/> 
+ 
+ * <a href="https://www.linkedin.com/posts/thembaletu-mbangcolo-b993a325a_how-to-help-students-learn-mathematics-better-activity-7108687316902129664-Axej?utm_source=share&utm_medium=member_desktop  " <a/> - This is an interview I did on Radio 702 about STEM, Growth Mindsets -Mathematical mindests learning , teaching. 
 
 
 ## EndPoint Vulnerability discovery and Analysis.
