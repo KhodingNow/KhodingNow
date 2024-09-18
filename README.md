@@ -10,6 +10,7 @@ I ethically conduct Software development experiments as well as Hack,Pentest, Re
 
 A few sample Programming Projects on GitHub: |
 1. <a href= " https://github.com/KhodingNow/pythonProject8.git "</a> - this is a Data Structure programming project using Python.
+2. <a href= " https://github.com/KhodingNow/FrontEndDev.git "<a/>
 
 🌍  I'm based in Johannesburg* ✉️  
 
