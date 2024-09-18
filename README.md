@@ -14,6 +14,9 @@ API Programming #Security_Projects on GitHub: |
 3. <a href="https://github.com/KhodingNow/FigmaToHTML.git "<a/> - This is a FrontEnd Dev project, converting FIGMA to HTML, using CSS, a little JS too.
 4. <a href=" https://github.com/KhodingNow/Malware_Analysis.git "<a/> - This is a Malware Analysis  code written in Python to protect servers and increase security awareness for Devs, SystAdmins.
 
+Problem Solving, Mathematical Mindsets for productivity gains in the workplace - a talk to Managers
+<a href= " https://youtu.be/DAw0fP27wH8?si=ZIRm43bnIHLAGPUF" <a/>
+
 ## EndPoint Vulnerability discovery and Analysis.
 
 In April 2024, I discovered an API vulnerability on a Cloud Based API for a Retail Client's Job website - I wrote a report, informed them and they email to acknowledge it.
