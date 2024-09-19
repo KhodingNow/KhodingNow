@@ -10,9 +10,7 @@ I have a combined 20+ year experience across Corporate_SA including 8 years of r
 
 In my spare time, I Coach Mathematical Mindsets to students. I include Programming as a problem solving tool. I connect programming to Mathematics in their daily life experiences.
 
-On <a href="https://img.shields.io/badge/LinkedIn-007785?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /> 
-
- "  </a> , I post a lot of Programming ideas / concepts <a href= "https://www.linkedin.com/in/thembaletu-mbangcolo-b993a325a/ <a/> - currently I am sharing ideas on Kubernetes, Pods, Clusters, Networking, Security as well as How to write secure Software with developers in mind to mitigate early, any API security vulnerabilities. 
+On Linkedin, I post a lot of Programming ideas, API security concepts <a href= "https://www.linkedin.com/in/thembaletu-mbangcolo-b993a325a/ <a/> - currently I am sharing ideas on Kubernetes, Pods, Clusters, Networking, Security as well as How to write secure Software with developers in mind to mitigate early, any API security vulnerabilities. 
 
 I ethically conduct Software development experiments as well as Hack,Pentest, Red / Blue Team APi security especially GraphQL APIs for the last number of years on my my Home Kali Linux lab environment. A heavy Linux user, in Programming, Security, Docker, Kubernetes, Git version control, Git Action automation, etc.
 
