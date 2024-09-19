@@ -15,7 +15,7 @@ I ethically conduct Software development experiments as well as Hack,Pentest, Re
 4. <a href=" https://github.com/KhodingNow/Malware_Analysis.git "<a/> - This is a Malware Analysis  code written in Python to protect servers and increase security awareness for Devs, SystAdmins.
 
 
-# Problem Solving at WORK - Mathematical_THINKING Mindset for productivity gains in the workplace - an online video talk to Managers.
+# Problem Solving at WORK - Mathematical_THINKING, Growth_Mindset for productivity gains for Managers.
 
  * <a href= " https://youtu.be/DAw0fP27wH8?si=ZIRm43bnIHLAGPUF" <a/> 
  
