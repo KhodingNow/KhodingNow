@@ -23,7 +23,8 @@ I ethically conduct Software development experiments as well as Hack,Pentest, Re
 4. <a href=" https://github.com/KhodingNow/Malware_Analysis.git "<a/> - This is a Malware Analysis  code written in Python to protect servers and increase security awareness for Devs, SystAdmins.
 
 
-# Problem Solving at WORK - Mathematical_THINKING, Growth_Mindset for productivity gains for Managers.
+# How does Problem Solving - Mathematical_THINKING - Growth_Mindset for productivity gains at work look like for Managers? .
+I share my views making connections with Mathematical thinking as a skill and a competence in this short video. Let us quickly remind ourselves - in Programming, the OOP pattern in Java, Python, C++ etc is anchored in a branch of Mathematics called Category Theory. So OOP and Category Theory provide a real life mathematical foundation / justification for each other. Look at how Java for example is popular in enterprize business.
 
  * <a href= " https://youtu.be/DAw0fP27wH8?si=ZIRm43bnIHLAGPUF" <a/> 
  
