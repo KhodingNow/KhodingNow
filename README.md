@@ -2,13 +2,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 < img align='right' src='https://visitor-badge.laobi.icu/badge?page_id=KhodingNow.KhodingNow' />
 
-<h1 align="center">
-<a href="https://git.io/typing-svg" >
- <img a src="https://readme-typing-svg.herokuapp.com/?
-  font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There +I am Thembaletu" /> <a/>
-  
- </h1>
-
 I am an Ethical Hacker on GraphQL and Rest APIs Security - I conduct Pentesting on Vulnerable APIs implemented in various programming language servers.
 
 I have been programming in Python since 2020. I have a combined 20+ years experience across Corporate_SA including 8 years of running my own Real Estate Franchise in Midrand and Waterfall City, north of JHB.In my spare time, I Coach Mathematical Mindsets to students.I include Programming for problem solving.
