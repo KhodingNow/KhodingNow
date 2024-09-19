@@ -1,7 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Thembaletu Mbangcolo.
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Thembaletu.
 
 < img align='right' src='https://visitor-badge.laobi.icu/badge?page_id=KhodingNow.KhodingNow' />
-
+<h1 align="center">
+<a href="https://git.io/typing-svg">
+ <img a src="https://readme-typing-svg.herokuapp.com/?
+  font=Righteous&size=35&center=truevCenter=true&width=500&height=70&duration=400&lines=Hi+There + I am Thembaletu" /><a/> 
+  </h1>
 
 I am an Ethical Hacker on GraphQL and Rest APIs Security - I conduct Pentesting on Vulnerable APIs implemented in various programming language servers.
 
