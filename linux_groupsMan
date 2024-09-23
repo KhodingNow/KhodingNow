@@ -1,0 +1,30 @@
+
+#!/usr/bin/env Python3
+
+# groups foxing
+# cat /etc/group => Command OUTPUT - Groups have columns: of group Name - group Password - group ID -- the last 'empty :' column is for member of that group
+
+# ystemd-timesync:x:992:
+# redsocks:x:104:
+# kismet:x:105:
+# _gophish:x:106:
+# messagebus:x:107:
+# sudo groupdel gamers
+# sudo groupdel gamers
+
+# cat /etc/group | grep 1000 Command OUTPUT => ezwa:x:1000: -- User - Password - ID. (PRIMARY grp)
+
+# ADD User to a Group:
+
+# sudo groupadd linux-admins ...Command OUTPUT =>
+# foxing:x:1003:
+# sysuser:x:988:
+# linux-admins:x:1004:
+
+# Add user to a group..
+# sudo usermod -aG linux-admins foxing ->
+# foxing : foxing linux-admins ..OR..
+
+# sudo gpasswd -a foxing linux-admins
+
+sudo nano /etc/ssh/ssh_config
