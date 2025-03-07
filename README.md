@@ -14,6 +14,9 @@ On Linkedin, I post a lot of Programming ideas, API security concepts <a href= "
 
 Currently I am sharing ideas on Kubernetes, Pods, Clusters, Networking, Security as well as How to write secure Software with developers in mind to mitigate quite early, any API security vulnerabilities that might crip in during the API code development stage. 
 
+ALSO Currently 
+- I am exploring API OFFENSIVE Security using Rust Programming language ->  Here is a taste of just two DATA structures in Rust (String and &str) https://github.com/KhodingNow/Exploring-Rust_String_str_deeply
+
 I ethically conduct Software development experiments as well as Hack,Pentest, Red / Blue Team APi security especially GraphQL APIs for the last number of years on my my Home Kali Linux lab environment. A heavy Linux user, in Programming, Security, Docker, Kubernetes, Git version control, Git Action automation, etc.
 
 # API Programming #Security_Projects on GitHub: |
