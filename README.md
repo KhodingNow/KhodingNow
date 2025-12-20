@@ -2,7 +2,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 < img align='right' src='https://visitor-badge.laobi.icu/badge?page_id=KhodingNow.KhodingNow' />
 
-I am an Ethical Hacker on GraphQL, Rest API Security, conducting Pentesting on Vulnerable APIs implemented in various programming languages servers.I have been programming in Python since 2020. At Microsoft Community, I am a member of  Rust Programming UserGroup - I am experimenting with Rust's serde library (for API Security - titled: Hacking LLMapp_AI_agents - exploring what safety does Rust offer)
+I am a Rust Developer, currently writing Command Line Rust small programs (Command Line Rust), alongside writing Rust C FFIs - picking up expert Skills form Refactoring to Rust(Mara and Holmes).
+
+I consult in Ethical Hacking on GraphQL, Rest API Security, conducting Pentesting on Vulnerable APIs implemented in various programming languages servers.I have been programming in Python since 2020. At Microsoft Community, I am a member of  Rust Programming UserGroup - I am experimenting with Rust's serde library (for API Security - titled: Hacking LLMapp_AI_agents - exploring what safety does Rust offer)
 
 I have a combined 20+ year experience across Corporate_SA including 8 years of running my own Real Estate Franchise in Midrand and Waterfall City - north of JHB.
 
