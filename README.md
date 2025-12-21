@@ -17,7 +17,15 @@ Currently I am sharing ideas on Kubernetes, Pods, Clusters, Networking, Security
 ALSO Currently 
 - I am exploring API OFFENSIVE Security using Rust Programming language ->  Here is a taste of just two DATA structures in Rust (String and &str) https://github.com/KhodingNow/Exploring-Rust_String_str_deeply
 
-I ethically conduct Software development experiments as well as Hack,Pentest, Red / Blue Team APi security especially GraphQL APIs for the last number of years on my my Home Kali Linux lab environment. A heavy Linux user, in Programming, Security, Docker, Kubernetes, Git version control, Git Action automation, etc.
+I ethically conduct Software development experiments as well as Hack,Pentest, Red / Blue Team APi security especially GraphQL APIs for the last number of years on my my Home Kali Linux lab environment. A heavy Linux user, in Programming, Security, Docker, Kubernetes, Git version control, Git Action automation, etc.ca, Cana
+
+# Tech Conferences and techMeets where I was a speaker:
+- PyconAfrica 2025 - 39 speakers, 14 Countries from Africa including England, US, Canada, India.
+- Microsoft Community every second Tuesday of the month (Rust only to a Rust UserGroup)
+- 0xCoffee - last Monday of month - spoken her three times in 2025 - Cyber Sec Professionals
+- Developer User Group JHB at BBD JHB - spoke there about API Security, Rust, etc a few times in 2025.
+- Google Gauteng Developer hosted at BBD Rosebank
+- JoziJS at BBD JHB - spoke once so far in 2025 - Rust and Fearless Concurrency - one memorable talk as far as audience engagement was concerned.
 
 # API Programming #Security_Projects on GitHub: |
 1. <a href= " https://github.com/KhodingNow/pythonProject8.git "</a> - this is a Data Structure programming project using Python.
