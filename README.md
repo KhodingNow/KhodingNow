@@ -19,9 +19,20 @@ ALSO Currently
 
 I ethically conduct Software development experiments as well as Hack,Pentest, Red / Blue Team APi security especially GraphQL APIs for the last number of years on my my Home Kali Linux lab environment. A heavy Linux user, in Programming, Security, Docker, Kubernetes, Git version control, Git Action automation, etc.
 
-# How Black Hat Scrpting can be optimized as a Management tool with AWK, grep, etc - this is what you take to your next EXCO Meeting for secure systems - servers on prem and Cloud.
+# How Black Hat Scripting can be optimized as a Management tool with AWK, grep, etc - this is what you take to your next EXCO Meeting for secure systems - servers on prem and Cloud.
 - https://github.com/KhodingNow/the-magic-of-black-hat-bash-scripting-in-API-Security.
-- Above I present a number of automated bash script to navigate a server log file that contains HTTP requests activity - use AWK and grep to generate various reports including sucpicious activity report, what IP addresses contact the server, which ones fail/succceed/ frequently fail, etc.
+- Above I present a number of automated bash script to navigate a server log file that contains HTTP requests activity - use AWK and grep to generate various reports including sucpicious activity report, what IP addresses contact the server, which ones fail/succceed/ frequently fail, etc
+- Time based analysis
+- User Agent analysis
+- Data extraction with AWK.
+For Seniour managers - EXCO
+- Realtime monitoring
+- Parsing Script that ;
+  * track errors
+  * count request methods
+  * track data by IP
+  * track by hour, etc
+    
 # Tech Conferences and techMeets where I was a speaker:
 - PyconAfrica 2025 - 39 speakers, 14 Countries from Africa including England, US, Canada, India.
 - Microsoft Community every second Tuesday of the month (Rust only to a Rust UserGroup)
