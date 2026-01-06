@@ -32,7 +32,8 @@ For Seniour managers - EXCO
   * count request methods
   * track data by IP
   * track by hour, etc
-    
+
+  NB: next thing I am doing is => how to move from Bash to Rust - how you can intergrate the magic of a Bash Script to Production Rust for safety, speed, and less resources (may enter this for Rust Hackathon Africa  3-18 Jan 2026).
 # Tech Conferences and techMeets where I was a speaker:
 - PyconAfrica 2025 - 39 speakers, 14 Countries from Africa including England, US, Canada, India.
 - Microsoft Community every second Tuesday of the month (Rust only to a Rust UserGroup)
