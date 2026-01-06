@@ -17,7 +17,10 @@ Currently I am sharing ideas on Kubernetes, Pods, Clusters, Networking, Security
 ALSO Currently 
 - I am exploring API OFFENSIVE Security using Rust Programming language ->  Here is a taste of just two DATA structures in Rust (String and &str) https://github.com/KhodingNow/Exploring-Rust_String_str_deeply
 
-I ethically conduct Software development experiments as well as Hack,Pentest, Red / Blue Team APi security especially GraphQL APIs for the last number of years on my my Home Kali Linux lab environment. A heavy Linux user, in Programming, Security, Docker, Kubernetes, Git version control, Git Action automation, etc.ca, Cana
+I ethically conduct Software development experiments as well as Hack,Pentest, Red / Blue Team APi security especially GraphQL APIs for the last number of years on my my Home Kali Linux lab environment. A heavy Linux user, in Programming, Security, Docker, Kubernetes, Git version control, Git Action automation, etc.
+
+# How Black Hat Scrpting can be optimized as a Management tool with AWK, grep, etc - this is what you take to your next EXCO Meeting for secure systems - servers on prem and Cloud.
+- 
 
 # Tech Conferences and techMeets where I was a speaker:
 - PyconAfrica 2025 - 39 speakers, 14 Countries from Africa including England, US, Canada, India.
