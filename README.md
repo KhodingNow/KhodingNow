@@ -2,19 +2,28 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 < img align='right' src='https://visitor-badge.laobi.icu/badge?page_id=KhodingNow.KhodingNow' />
 
-I am a Rust Developer, currently writing Command Line Rust small programs (Command Line Rust), alongside writing Rust C FFIs - picking up expert Skills form Refactoring to Rust(Mara and Holmes).
+I am a Rust Developer, currently writing  TWO big projects to deepen my knowledge of Rust and validate my teaching of the language at as an API Security / Rust Developer consultancy in JHB, SAfrica.
 
-I consult in Ethical Hacking on GraphQL, Rest API Security, conducting Pentesting on Vulnerable APIs implemented in various programming languages servers.I have been programming in Python since 2020. At Microsoft Community, I am a member of  Rust Programming UserGroup - I am experimenting with Rust's serde library (for API Security - titled: Hacking LLMapp_AI_agents - exploring what safety does Rust offer)
+These are:
+- Command Line Rust - writing small programs (Command Line Rust),
+- Writing Rust C FFIs - picking up expert Skills form Refactoring to Rust(Mara and Holmes).
+  The irony here is, though I started learning Rust 2,5 years ago - the first Software Book provides me with plumbing skills to conquer the second goal to Refactor in Rust.
+
+In the main - I consult in Ethical Hacking on GraphQL, Rest API Security, conducting Pentesting on Vulnerable APIs implemented in various programming languages servers.I have been programming in Python since 2020. 
+
+At Microsoft Community, I am a member of  Rust Programming UserGroup - I am experimenting with Rust's serde library (for API Security - titled: Hacking LLMapp_AI_agents - exploring what safety does Rust offer)
 
 I have a combined 20+ year experience across Corporate_SA including 8 years of running my own Real Estate Franchise in Midrand and Waterfall City - north of JHB.
 
-In my spare time, I Coach Mathematical Mindsets to students. I include Programming as a problem solving tool. I connect programming to Mathematics in their daily life experiences.
+In my spare time, I Coach Mathematical Mindsets to students. I include Programming as a problem solving tool. 
+
+Mathematics is so embedded in Software, this certainly help me handle AI with confidence built on knowledge - RAG in Machine Learning (aka AI). The majority of developers have a huge knowledge gap regarding how AI Security actually works at the core - Vector databases, RAG. I continually talk at Tech talks in JHB dev environments about the (ANATOMY of af an LLM attack) for writing secure software.
 
 On Linkedin, I post a lot of Programming ideas, API security concepts <a href= "https://www.linkedin.com/in/thembaletu-mbangcolo-b993a325a/ <a/> 
 
-Currently I am sharing ideas on Kubernetes, Pods, Clusters, Networking, Security as well as How to write secure Software with developers in mind to mitigate quite early, any API security vulnerabilities that might crip in during the API code development stage. 
+Currently I am sharing ideas on Kubernetes, Pods, Clusters, Networking, Security as well as How to write secure Software with developers in mind to mitigate quite early, any API security vulnerabilities that might crip-in during the API code development stage. 
 
-ALSO Currently 
+ALSO:  
 - I am exploring API OFFENSIVE Security using Rust Programming language ->  Here is a taste of just two DATA structures in Rust (String and &str) https://github.com/KhodingNow/Exploring-Rust_String_str_deeply
 
 I ethically conduct Software development experiments as well as Hack,Pentest, Red / Blue Team APi security especially GraphQL APIs for the last number of years on my my Home Kali Linux lab environment. A heavy Linux user, in Programming, Security, Docker, Kubernetes, Git version control, Git Action automation, etc.
@@ -33,7 +42,8 @@ For Seniour managers - EXCO
   * track data by IP
   * track by hour, etc
 
-  NB: next thing I am doing is => how to move from Bash to Rust - how you can intergrate the magic of a Bash Script to Production Rust for safety, speed, and less resources (may enter this for Rust Hackathon Africa  3-18 Jan 2026).
+  # NB: next thing I am doing is => how to move from Bash to Rust - how you can intergrate the magic of a Bash Script to Production Rust for safety, speed, and less resources (may enter this for Rust   Hackathon Africa  3-18 Jan 2026).
+  
 # Tech Conferences and techMeets where I was a speaker:
 - PyconAfrica 2025 - 39 speakers, 14 Countries from Africa including England, US, Canada, India.
 - Microsoft Community every second Tuesday of the month (Rust only to a Rust UserGroup)
