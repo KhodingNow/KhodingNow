@@ -2,22 +2,21 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 < img align='right' src='https://visitor-badge.laobi.icu/badge?page_id=KhodingNow.KhodingNow' />
 
-I am a Rust Developer, currently writing  TWO big projects to deepen my knowledge of Rust and validate my teaching of the language at as an API Security / Rust Developer consultancy in JHB, SAfrica.
+I am a Rust Developer, currently writing TWO big projects to deepen my knowledge of Rust and validate my teaching of the language at TEACHERS GUILD I just joined to teach software and programming. 
+This will be useful to my API Security / Rust Developer consultancy in JHB, SAfrica.
 
-These are:
-- Command Line Rust - writing small programs (Command Line Rust),
-- Writing Rust C FFIs - picking up expert Skills form Refactoring to Rust(Mara and Holmes).
-  The irony here is, though I started learning Rust 2,5 years ago - the first Software Book provides me with plumbing skills to conquer the second goal to Refactor in Rust.
+These projects are:
+- Command Line Rust - writing small programs (Command Line Rust - by Ken Y-Clark),
+- Writing Rust C FFIs - picking up expert Skills form Refactoring to Rust (by L Mara and J Holmes).
+ # The irony here is, though I started learning Rust 2,5 years ago - the first Software Book provides me with plumbing skills to conquer the second goal to Refactor in Rust - that is how these two projects build on and coplement each other at a system engineering level.
 
 In the main - I consult in Ethical Hacking on GraphQL, Rest API Security, conducting Pentesting on Vulnerable APIs implemented in various programming languages servers.I have been programming in Python since 2020. 
 
-At Microsoft Community, I am a member of  Rust Programming UserGroup - I am experimenting with Rust's serde library (for API Security - titled: Hacking LLMapp_AI_agents - exploring what safety does Rust offer)
+In February of 2025, at Microsoft Community, I became a member of a Rust Programming UserGroup - I started experimenting with Rust's serde library (for API Security - titled: Hacking LLMapp_AI_agents - exploring what kind of safety does Rust offer)
 
-I have a combined 20+ year experience across Corporate_SA including 8 years of running my own Real Estate Franchise in Midrand and Waterfall City - north of JHB.
+I have a combined 20+ year experience across Corporate_SA including 8 years of running my own Real Estate Franchise in Midrand and Waterfall City - north of JHB.In my spare time, I Coach Mathematical Mindsets to students. I include Programming as a problem solving tool. 
 
-In my spare time, I Coach Mathematical Mindsets to students. I include Programming as a problem solving tool. 
-
-Mathematics is so embedded in Software, this certainly help me handle AI with confidence built on knowledge - RAG in Machine Learning (aka AI). The majority of developers have a huge knowledge gap regarding how AI Security actually works at the core - Vector databases, RAG. I continually talk at Tech talks in JHB dev environments about the (ANATOMY of af an LLM attack) for writing secure software.
+Mathematics is so embedded in Software engineering. This certainly helps me handle AI with confidence built on knowledge - RAG in Machine Learning (aka AI). The majority of developers have a huge knowledge gap regarding how AI Security actually works at the core - Vector databases, RAG. I continually talk at Tech talks in JHB dev environments about the (ANATOMY of af an LLM attack) for writing secure software.
 
 On Linkedin, I post a lot of Programming ideas, API security concepts <a href= "https://www.linkedin.com/in/thembaletu-mbangcolo-b993a325a/ <a/> 
 
@@ -27,6 +26,7 @@ ALSO:
 - I am exploring API OFFENSIVE Security using Rust Programming language ->  Here is a taste of just two DATA structures in Rust (String and &str) https://github.com/KhodingNow/Exploring-Rust_String_str_deeply
 
 I ethically conduct Software development experiments as well as Hack,Pentest, Red / Blue Team APi security especially GraphQL APIs for the last number of years on my my Home Kali Linux lab environment. A heavy Linux user, in Programming, Security, Docker, Kubernetes, Git version control, Git Action automation, etc.
+# I do take Rust to Cyber Security as I often attend 0xCon and 0xCoffee meetups in JHB - I have had a few talks here, exploring various ways Rust brings safety to severs, databases and Cyber Sec in general.
 
 # How Black Hat Scripting can be optimized as a Management tool with AWK, grep, etc - this is what you take to your next EXCO Meeting for secure systems - servers on prem and Cloud.
 - https://github.com/KhodingNow/the-magic-of-black-hat-bash-scripting-in-API-Security.
@@ -34,7 +34,8 @@ I ethically conduct Software development experiments as well as Hack,Pentest, Re
 - Time based analysis
 - User Agent analysis
 - Data extraction with AWK.
-For Seniour managers - EXCO
+  
+# For Senior managers - EXCO
 - Realtime monitoring
 - Parsing Script that ;
   * track errors
@@ -42,7 +43,7 @@ For Seniour managers - EXCO
   * track data by IP
   * track by hour, etc
 
-  # NB: next thing I am doing is => how to move from Bash to Rust - how you can intergrate the magic of a Bash Script to Production Rust for safety, speed, and less resources (may enter this for Rust   Hackathon Africa  3-18 Jan 2026).
+  # NB: the next thing I am doing is => how to move from Bash to production Rust -I will intergrate the magic of a Bash security Script to Production Rust for safety, speed, and less resources (I will enter this for a Rust Hackathon Africa  currently on from 3-18 Jan 2026).
   
 # Tech Conferences and techMeets where I was a speaker:
 - PyconAfrica 2025 - 39 speakers, 14 Countries from Africa including England, US, Canada, India.
