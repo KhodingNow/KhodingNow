@@ -2,13 +2,17 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 < img align='right' src='https://visitor-badge.laobi.icu/badge?page_id=KhodingNow.KhodingNow' />
 
+A quantitative Finance Option pricing-engine built in #Rust - Black Scholes know variables and proterty testing: 
+https://github.com/KhodingNow/A-RustOption-Trading_Engine-blackScholes-
+
+
 I am a Rust Developer, currently writing TWO big projects to deepen my knowledge of Rust and validate my teaching of the language at TEACHERS GUILD I just joined to teach software and programming. 
 This will be useful to my API Security / Rust Developer consultancy in JHB, SAfrica.
 
 These projects are:
 - Command Line Rust - writing small programs (Command Line Rust - by Ken Y-Clark),
 - Writing Rust C FFIs - picking up expert Skills form Refactoring to Rust (by L Mara and J Holmes).
- # The irony here is, though I started learning Rust 2,5 years ago - the first Software Book provides me with plumbing skills to conquer the second goal to Refactor in Rust - that is how these two projects build on and coplement each other at a system engineering level.
+  The irony here is, though I started learning Rust 2,5 years ago - the first Software Book provides me with plumbing skills to conquer the second goal to Refactor in Rust - that is how these two projects build on and coplement each other at a system engineering level.
 
 In the main - I consult in Ethical Hacking on GraphQL, Rest API Security, conducting Pentesting on Vulnerable APIs implemented in various programming languages servers.I have been programming in Python since 2020. 
 
@@ -26,9 +30,9 @@ ALSO:
 - I am exploring API OFFENSIVE Security using Rust Programming language ->  Here is a taste of just two DATA structures in Rust (String and &str) https://github.com/KhodingNow/Exploring-Rust_String_str_deeply
 
 I ethically conduct Software development experiments as well as Hack,Pentest, Red / Blue Team APi security especially GraphQL APIs for the last number of years on my my Home Kali Linux lab environment. A heavy Linux user, in Programming, Security, Docker, Kubernetes, Git version control, Git Action automation, etc.
-# I do take Rust to Cyber Security as I often attend 0xCon and 0xCoffee meetups in JHB - I have had a few talks here, exploring various ways Rust brings safety to severs, databases and Cyber Sec in general.
+ I do take Rust to Cyber Security as I often attend 0xCon and 0xCoffee meetups in JHB - I have had a few talks here, exploring various ways Rust brings safety to severs, databases and Cyber Sec in general.
 
-# How Black Hat Scripting can be optimized as a Management tool with AWK, grep, etc - this is what you take to your next EXCO Meeting for secure systems - servers on prem and Cloud.
+ How Black Hat Scripting can be optimized as a Management tool with AWK, grep, etc - this is what you take to your next EXCO Meeting for secure systems - servers on prem and Cloud.
 - https://github.com/KhodingNow/the-magic-of-black-hat-bash-scripting-in-API-Security.
 - Above I present a number of automated bash script to navigate a server log file that contains HTTP requests activity - use AWK and grep to generate various reports including sucpicious activity report, what IP addresses contact the server, which ones fail/succceed/ frequently fail, etc
 - Time based analysis
@@ -43,9 +47,9 @@ I ethically conduct Software development experiments as well as Hack,Pentest, Re
   * track data by IP
   * track by hour, etc
 
-  # NB: the next thing I am doing is => how to move from Bash to production Rust -I will intergrate the magic of a Bash security Script to Production Rust for safety, speed, and less resources (I will enter this for a Rust Hackathon Africa  currently on from 3-18 Jan 2026).
+  NB: the next thing I am doing is => how to move from Bash to production Rust -I will intergrate the magic of a Bash security Script to Production Rust for safety, speed, and less resources (I will enter this for a Rust Hackathon Africa  currently on from 3-18 Jan 2026).
   
-# Tech Conferences and techMeets where I was a speaker:
+Tech Conferences and techMeets where I was a speaker:
 - PyconAfrica 2025 - 39 speakers, 14 Countries from Africa including England, US, Canada, India.
 - Microsoft Community every second Tuesday of the month (Rust only to a Rust UserGroup)
 - 0xCoffee - last Monday of month - spoken her three times in 2025 - Cyber Sec Professionals
@@ -60,7 +64,7 @@ I ethically conduct Software development experiments as well as Hack,Pentest, Re
 4. <a href=" https://github.com/KhodingNow/Malware_Analysis.git "<a/> - This is a Malware Analysis  code written in Python to protect servers and increase security awareness for Devs, SystAdmins.
 
 
-# How does Problem Solving - Mathematical_THINKING - Growth_Mindset for productivity gains at work look like for Managers? .
+ How does Problem Solving - Mathematical_THINKING - Growth_Mindset for productivity gains at work look like for Managers? .
 I share my views making connections with Mathematical thinking as a skill and a competence in this short video. Let us quickly remind ourselves - in Programming, the OOP pattern in Java, Python, C++ etc is anchored in a branch of Mathematics called Category Theory. So OOP and Category Theory provide a real life mathematical foundation / justification for each other. Look at how Java for example is popular in enterprize business.
 
  * <a href= " https://youtu.be/DAw0fP27wH8?si=ZIRm43bnIHLAGPUF" <a/> 
