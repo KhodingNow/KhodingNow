@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 < img align='right' src='https://visitor-badge.laobi.icu/badge?page_id=KhodingNow.KhodingNow' />
 
-A quantitative Finance Option pricing-engine built in #Rust - Black Scholes know variables and proterty testing: 
+A quantitative Finance Option pricing-engine built in #Rust - Black Scholes known variables, property testing: 
 https://github.com/KhodingNow/A-RustOption-Trading_Engine-blackScholes-
 
 
