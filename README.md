@@ -5,72 +5,112 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A quantitative Finance Option pricing-engine built in #Rust - Black Scholes known variables, property testing: 
 https://github.com/KhodingNow/A-RustOption-Trading_Engine-blackScholes-
 
+THIS IS NOW a CRATE at crates.io from last week.
 
-I am a Rust Developer, currently writing TWO big projects to deepen my knowledge of Rust and validate my teaching of the language at TEACHERS GUILD I just joined to teach software and programming. 
-This will be useful to my API Security / Rust Developer consultancy in JHB, SAfrica.
+🧠 RUST FOCUS SUMMARY
+Rust systems engineer working at the intersection of:
+    • numerical modelling 
+    • secure systems design 
+    • financial engineering 
+with hands-on experience in:
+    • FFI correctness and ABI boundary safety 
+    • correctness-driven financial models 
+    • security-critical Rust systems 
+    • encoding domain invariants as executable tests 
+My engineering philosophy is correctness-first:
+    • Make unsafe boundaries explicit 
+    • Encode financial and mathematical invariants as tests 
+    • Use Rust’s type system to model domain constraints 
+    • Design deterministic, auditable systems suitable for financial infrastructure 
+I am particularly interested in:
+    • Rust ↔ C interoperability (bindgen, unsafe boundary containment) 
+    • correctness-driven quantitative engines 
+    • automatic differentiation & sensitivity frameworks 
+    • Rust for trading, pricing, and risk systems 
 
-These projects are:
-- Command Line Rust - writing small programs (Command Line Rust - by Ken Y-Clark),
-- Writing Rust C FFIs - picking up expert Skills form Refactoring to Rust (by L Mara and J Holmes).
-  The irony here is, though I started learning Rust 2,5 years ago - the first Software Book provides me with plumbing skills to conquer the second goal to Refactor in Rust - that is how these two projects build on and coplement each other at a system engineering level.
+🚀 SELECTED RUST PROJECTS
+1. Advanced Rust–C FFI Debugging & Bindgen
+Repository:
+https://github.com/KhodingNow/debugging-bindgen-for-a-Rust_C-advance_FFI
+What This Demonstrates
+    • Real-world FFI debugging beyond toy examples 
+    • Deep understanding of: 
+        ◦ ownership across language boundaries 
+        ◦ ABI layout and struct alignment 
+        ◦ unsafe containment strategies 
+    • Diagnosing and correcting incorrect bindgen output 
+Key Focus Areas
+    • Memory layout and alignment correctness 
+    • Safe abstractions over unsafe C APIs 
+    • Reasoning about memory safety under cross-language constraints 
 
-In the main - I consult in Ethical Hacking on GraphQL, Rest API Security, conducting Pentesting on Vulnerable APIs implemented in various programming languages servers.I have been programming in Python since 2020. 
+2. Rust Option Pricing Engine (Published Crate)
+Black-Scholes + Binomial CRR
+Repository:
+https://github.com/KhodingNow/A-RustOption-Trading_Engine-blackScholes
+Crate:
+Published on crates.io as rust-option-engine
 
-In February of 2025, at Microsoft Community, I became a member of a Rust Programming UserGroup - I started experimenting with Rust's serde library (for API Security - titled: Hacking LLMapp_AI_agents - exploring what kind of safety does Rust offer)
+Status
+    • Public Rust crate (v0.1.0) published and installable via Cargo 
+    • Closed-form pricing aligned with the architecture of
+quantsupport (beta contribution in progress) 
+    • Binomial pricer integration being designed to align with tape-based automatic differentiation 
 
-I have a combined 20+ year experience across Corporate_SA including 8 years of running my own Real Estate Franchise in Midrand and Waterfall City - north of JHB.In my spare time, I Coach Mathematical Mindsets to students. I include Programming as a problem solving tool. 
+What This Demonstrates
+    • Translation of quantitative models into production-grade Rust code 
+    • Designing reusable financial libraries (not just standalone scripts) 
+    • Numerical validation through invariant-driven testing 
+    • Alignment with industry concerns: correctness, stability, extensibility 
 
-Mathematics is so embedded in Software engineering. This certainly helps me handle AI with confidence built on knowledge - RAG in Machine Learning (aka AI). The majority of developers have a huge knowledge gap regarding how AI Security actually works at the core - Vector databases, RAG. I continually talk at Tech talks in JHB dev environments about the (ANATOMY of af an LLM attack) for writing secure software.
+Highlights
+    • Black-Scholes closed-form pricing (European options) 
+    • Cox-Ross-Rubinstein (CRR) binomial tree (backward induction) 
+    • Finite-difference Greeks (Delta) 
+    • Property-based testing using proptest 
+    • Structured for integration with AD-based sensitivity frameworks 
 
-On Linkedin, I post a lot of Programming ideas, API security concepts <a href= "https://www.linkedin.com/in/thembaletu-mbangcolo-b993a325a/ <a/> 
+Financial Invariants Enforced via Tests
+    • Intrinsic value bounds 
+    • Discounted lower bounds 
+    • Put-call parity 
+    • Monotonicity with respect to volatility 
+    • Stability of finite-difference sensitivities 
 
-Currently I am sharing ideas on Kubernetes, Pods, Clusters, Networking, Security as well as How to write secure Software with developers in mind to mitigate quite early, any API security vulnerabilities that might crip-in during the API code development stage. 
+Engineering Positioning
+This project is intentionally focused on:
+    • model correctness over trading strategy 
+    • numerical robustness over premature optimisation 
+    • architectural extensibility toward quant libraries 
+It reflects practical quant engineering:
+building verifiable models that can be trusted in production systems
 
-ALSO:  
-- I am exploring API OFFENSIVE Security using Rust Programming language ->  Here is a taste of just two DATA structures in Rust (String and &str) https://github.com/KhodingNow/Exploring-Rust_String_str_deeply
+⚙️ ADDITIONAL RUST SIGNALS
+    • CLI tools in Rust for security automation 
+    • Advanced error handling (Result discipline, domain-specific errors) 
+    • Cryptographic key management implementations 
+    • Public speaking on Rust for secure systems 
+    • Organizer & contributor within Rust developer communities in Johannesburg 
 
-I ethically conduct Software development experiments as well as Hack,Pentest, Red / Blue Team APi security especially GraphQL APIs for the last number of years on my my Home Kali Linux lab environment. A heavy Linux user, in Programming, Security, Docker, Kubernetes, Git version control, Git Action automation, etc.
- I do take Rust to Cyber Security as I often attend 0xCon and 0xCoffee meetups in JHB - I have had a few talks here, exploring various ways Rust brings safety to severs, databases and Cyber Sec in general.
+🎓 BACKGROUND
+    • Post-Graduate Certificate in Econometrics — Wits University
+→ calculus, probability, statistics, stochastic modelling 
+    • Extensive experience in API security & correctness engineering 
+    • Active Rust community leadership (Microsoft Rust User Group Johannesburg) 
 
- How Black Hat Scripting can be optimized as a Management tool with AWK, grep, etc - this is what you take to your next EXCO Meeting for secure systems - servers on prem and Cloud.
-- https://github.com/KhodingNow/the-magic-of-black-hat-bash-scripting-in-API-Security.
-- Above I present a number of automated bash script to navigate a server log file that contains HTTP requests activity - use AWK and grep to generate various reports including sucpicious activity report, what IP addresses contact the server, which ones fail/succceed/ frequently fail, etc
-- Time based analysis
-- User Agent analysis
-- Data extraction with AWK.
+🎯 DIFFERENTIATING PROFILE
+A rare combination of:
+    • Mathematical reasoning 
+    • Systems-level Rust engineering 
+    • Security mindset 
+    • Open-source financial library contribution 
+Positioned for roles in:
+    • quantitative engineering 
+    • trading & pricing systems 
+    • fintech infrastructure 
+    • secure financial platforms
+
   
-# For Senior managers - EXCO
-- Realtime monitoring
-- Parsing Script that ;
-  * track errors
-  * count request methods
-  * track data by IP
-  * track by hour, etc
-
-  NB: the next thing I am doing is => how to move from Bash to production Rust -I will intergrate the magic of a Bash security Script to Production Rust for safety, speed, and less resources (I will enter this for a Rust Hackathon Africa  currently on from 3-18 Jan 2026).
-  
-Tech Conferences and techMeets where I was a speaker:
-- PyconAfrica 2025 - 39 speakers, 14 Countries from Africa including England, US, Canada, India.
-- Microsoft Community every second Tuesday of the month (Rust only to a Rust UserGroup)
-- 0xCoffee - last Monday of month - spoken her three times in 2025 - Cyber Sec Professionals
-- Developer User Group JHB at BBD JHB - spoke there about API Security, Rust, etc a few times in 2025.
-- Google Gauteng Developer hosted at BBD Rosebank
-- JoziJS at BBD JHB - spoke once so far in 2025 - Rust and Fearless Concurrency - one memorable talk as far as audience engagement was concerned.
-
-# API Programming #Security_Projects on GitHub: |
-1. <a href= " https://github.com/KhodingNow/pythonProject8.git "</a> - this is a Data Structure programming project using Python.
-2. <a href= " https://github.com/KhodingNow/FrontEndDev.git "<a/> - A frontEnd Dev site build with HTML and CSS mainly.
-3. <a href="https://github.com/KhodingNow/FigmaToHTML.git "<a/> - This is a FrontEnd Dev project, converting FIGMA to HTML, using CSS, a little JS too.
-4. <a href=" https://github.com/KhodingNow/Malware_Analysis.git "<a/> - This is a Malware Analysis  code written in Python to protect servers and increase security awareness for Devs, SystAdmins.
-
-
- How does Problem Solving - Mathematical_THINKING - Growth_Mindset for productivity gains at work look like for Managers? .
-I share my views making connections with Mathematical thinking as a skill and a competence in this short video. Let us quickly remind ourselves - in Programming, the OOP pattern in Java, Python, C++ etc is anchored in a branch of Mathematics called Category Theory. So OOP and Category Theory provide a real life mathematical foundation / justification for each other. Look at how Java for example is popular in enterprize business.
-
- * <a href= " https://youtu.be/DAw0fP27wH8?si=ZIRm43bnIHLAGPUF" <a/> 
- 
- * <a href="https://www.linkedin.com/posts/thembaletu-mbangcolo-b993a325a_how-to-help-students-learn-mathematics-better-activity-7108687316902129664-Axej?utm_source=share&utm_medium=member_desktop  " <a/> - This is an interview I did on Radio 702 about STEM, Growth Mindsets -Mathematical mindests learning , teaching. 
-
 
 ## EndPoint Vulnerability discovery and Analysis.
 
