@@ -23,7 +23,8 @@ My engineering philosophy is correctness-first:
     • Use Rust’s type system to model domain constraints 
     • Design deterministic, auditable systems suitable for financial infrastructure 
 I am particularly interested in:
-    • Rust ↔ C interoperability (bindgen, unsafe boundary containment) 
+    • Rust ↔ C interoperability (bindgen, unsafe boundary containment)
+    * Rust_Python bindings(pyo3, maturin) 
     • correctness-driven quantitative engines 
     • automatic differentiation & sensitivity frameworks 
     • Rust for trading, pricing, and risk systems 
