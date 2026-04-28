@@ -98,6 +98,7 @@ building verifiable models that can be trusted in production systems
 → calculus, probability, statistics, stochastic modelling 
     • Extensive experience in API security & correctness engineering 
     • Active Rust community leadership (Microsoft Rust User Group Johannesburg) 
+    * BA Hons Psychology - University of Fort Hare (Alice, Eastern Cape)
 
 🎯 DIFFERENTIATING PROFILE
 A rare combination of:
