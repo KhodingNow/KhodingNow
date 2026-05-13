@@ -117,6 +117,9 @@ Positioned for roles in:
 ## EndPoint Vulnerability discovery and Analysis.
 
 In April 2024, I discovered an API vulnerability on a Cloud Based API for a Retail Client's Job website - I wrote a report, informed them and they email to acknowledge it.
+My Rust Engineering type-system thinking allows me to cross-pollinate the domaing type security FIRST mindset to TypeScript so that Developers who work on Cloud Platforms for example can shift security left and design APIs that invalidate unauthorised states - this does NOT eliminate their SAST vulnerabilities scanning but reduce what their SAST tools find by 80%. That is 80% less of what Security in their teams has to review!
+
+This mindset is inspired by the Rust tools I have written and one is published...(rust-option-engine) on crates.io.
 
 <img src=" Pictures\Screenshots\Screenshot 2024-07-04 102831.png" </>
 
